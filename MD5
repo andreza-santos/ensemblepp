@@ -1,9 +1,10 @@
-6691e56d34768b3225f7a77fbc60b6c3 *DESCRIPTION
+0b656cbe0f257a1cf0df3056481fdba8 *DESCRIPTION
 9fdfeb11f7ddba6f3aab9aaa6b1ac5dd *NAMESPACE
-2be5d8309bccd0015cb128c445c92794 *NEWS
+9b07598e4099a5ecc82b3c218c842739 *NEWS
 b9d4d05d968cfefcbb0fb5ca2b4602b3 *data/rain.rda
 43097b371ad7a0c192e62cfc74ea4c8c *data/temp.rda
 1164d30999d7d890545dbe6af4b684ae *demo/00Index
 48cbef908fbb22884651024a08d808be *demo/ensemblepp.R
+5436fd1ce16975bea9ccee43103fa1da *inst/CITATION
 11b7130cc45a8033d1df27d91c446a13 *man/rain.Rd
 d7d2af6bce057aea9e4200325d5ca3d1 *man/temp.Rd

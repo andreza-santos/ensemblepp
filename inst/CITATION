@@ -1,0 +1,20 @@
+citEntry(entry = "Book",
+  title        = "Statistical Postprocessing of Ensemble Forecasts",
+  author       = personList(
+		              as.person("Stephane Vannitsem"),
+                  as.person("Daniel S. Wilks"),
+                  as.person("Jakob W. Messner")),
+  publisher    = "Elsevier",
+  address      = "Amsterdam",
+  year         = "2018",
+  note         = "ISBN 978-0-12-812372-0",
+  doi          = "10.1016/C2016-0-03244-8",
+  pages        = "362pp.",
+  
+  textVersion  =
+  paste("Stephane Vannitsem and Daniel S. Wilks and Jakob W. Messner (2018)",
+        "Statistical Postprocessing of Ensemble Forecasts.",
+        "Elsevier, Amsterdam"),
+)
+
+
